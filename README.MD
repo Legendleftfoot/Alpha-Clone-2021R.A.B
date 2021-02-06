@@ -1,3 +1,3 @@
 # Alpha clone 2021 update
 
-화이팅!
+HTML & CSS I USED this and builld site,app!
