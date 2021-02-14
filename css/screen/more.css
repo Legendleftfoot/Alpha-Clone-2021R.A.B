@@ -4,7 +4,36 @@
 
 .more-suggestiones {
     margin-top: 50px;
-    border-top: var(--Jisu-border) ;
-    -Jisu-border);
-    padding-top: 50px;
+    border-top: 1px solid black;
+    padding-top: 40px;
+}
+
+.more-suggestiones__title {
+    margin-top: 25px;
+
+}
+
+.more-suggestions__icons{
+    display: flex;
+
+}
+.more-suggestions__icon{
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.more-suggestions__icon-image{
+    width: 50px;
+    height: 50px;
+    background-color: slateblue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.more-suggestions__icon-image i {
+    font-size: 32px;
+    color: aquamarine;
 }
