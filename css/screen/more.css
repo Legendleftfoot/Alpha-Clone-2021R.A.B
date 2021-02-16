@@ -15,6 +15,7 @@
 
 .more-suggestions__icons{
     display: flex;
+    margin-top: 20px;
 
 }
 .more-suggestions__icon{

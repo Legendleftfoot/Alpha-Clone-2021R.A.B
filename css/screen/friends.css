@@ -1,3 +1,8 @@
+.background {
+    background-image: url('https://image.fmkorea.com/files/attach/new/20210205/3655109/789464292/3373634026/07f4d7d7fec7ca8db92f8720d4628701.jpg');
+    background-size: cover;
+    height: 100vh;
+}
 #friends-display-link {
     text-align: center;
     display: block;
@@ -13,7 +18,7 @@
 }
 
 .friends-screen {
-    padding: 0px var(--horizontal-space);
+    padding: 0px var(--horizontal-space)};
 } 
 .friends-screen__channel {
     margin-top: 25px;
