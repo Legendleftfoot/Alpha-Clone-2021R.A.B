@@ -1,7 +1,8 @@
-.background {
-    background-image: url('https://image.fmkorea.com/files/attach/new/20210205/3655109/789464292/3373634026/07f4d7d7fec7ca8db92f8720d4628701.jpg');
-    background-size: cover;
-    height: 100vh;
+.background{
+    background-image: url("https://postfiles.pstatic.net/MjAyMTAyMTZfOTIg/MDAxNjEzNDg0ODA2OTI5.H0erAykjZRieYW5UqR-2u7hoyqgcqAwsIFIqWbMT1gog.QaVU6XqAW-KLPjOQrBh1EGlhHN0IjxgSuv1vW5aETsIg.JPEG.qopw123/KakaoTalk_20210216_223944634_11.jpg?type=w580");
+    background-size: 100% 100%;
+    height: 90vh;
+    margin-top: 15px;
 }
 #friends-display-link {
     text-align: center;
